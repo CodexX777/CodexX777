@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/shivangverma19" target="blank"><img src="https://img.shields.io/twitter/follow/shivangverma19?logo=twitter&style=for-the-badge" alt="shivangverma19" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **reactjs, Expressjs, MongoDB, Nodejs**
 
