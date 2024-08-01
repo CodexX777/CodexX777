@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/shivangverma19" target="blank"><img src="https://img.shields.io/twitter/follow/shivangverma19?logo=twitter&style=for-the-badge" alt="shivangverma19" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **reactjs, Expressjs, MongoDB, Nodejs**
+- 💬 Ask me about **Reactjs, Expressjs, MongoDB, Nodejs**
 
 - 📫 How to reach me **shivang260279@gmail.com**
 
