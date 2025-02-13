@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shivang260279@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xumaYJCE92DGROFfkKOJSAuYZt0KJ7pv/view?usp=sharing]
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1xumaYJCE92DGROFfkKOJSAuYZt0KJ7pv/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
