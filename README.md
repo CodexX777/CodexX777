@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shivang260279@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1_1KcW3qCHjAZUz1WLmT1wf9L8yBdUtTj?usp=sharing](https://drive.google.com/drive/folders/1_1KcW3qCHjAZUz1WLmT1wf9L8yBdUtTj?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xumaYJCE92DGROFfkKOJSAuYZt0KJ7pv/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
